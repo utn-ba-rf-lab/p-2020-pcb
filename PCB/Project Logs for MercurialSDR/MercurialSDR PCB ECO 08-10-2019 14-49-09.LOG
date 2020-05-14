@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+3V3 Pin=C43-1
+Removed Pin From Net: NetName=GND Pin=C43-2
+Removed Pin From Net: NetName=+3V3 Pin=C44-1
+Removed Pin From Net: NetName=GND Pin=C44-2
+Removed Pin From Net: NetName=+3V3 Pin=C45-1
+Removed Pin From Net: NetName=GND Pin=C45-2
+Removed Pin From Net: NetName=+3V3 Pin=C46-1
+Removed Pin From Net: NetName=GND Pin=C46-2
+Removed Member From Class: ClassName=FTDI Interface Member=C43
+Removed Member From Class: ClassName=FTDI Interface Member=C44
+Removed Member From Class: ClassName=FTDI Interface Member=C45
+Removed Member From Class: ClassName=FTDI Interface Member=C46

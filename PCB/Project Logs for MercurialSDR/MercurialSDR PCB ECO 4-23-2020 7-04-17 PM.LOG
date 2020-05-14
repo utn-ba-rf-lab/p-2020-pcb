@@ -1,0 +1,749 @@
+Removed Pin From Net: NetName=GND Pin=C42-1
+Removed Pin From Net: NetName=+3V3 Pin=C42-2
+Removed Pin From Net: NetName=GND Pin=CN1-2
+Removed Pin From Net: NetName=GND Pin=CN1-2
+Removed Pin From Net: NetName=GND Pin=CN1-2
+Removed Pin From Net: NetName=GND Pin=CN1-2
+Removed Pin From Net: NetName=GND Pin=IC11-2
+Removed Pin From Net: NetName=PWM_MOD Pin=IC11-3
+Removed Pin From Net: NetName=+3V3 Pin=IC11-5
+Removed Pin From Net: NetName=PWM_DIF_P Pin=R35-2
+Removed Pin From Net: NetName=PWM_DIF_N Pin=R37-2
+Removed Pin From Net: NetName=GND Pin=R39-2
+Removed Member From Class: ClassName=iCE Banks Member=C42
+Removed Member From Class: ClassName=iCE Banks Member=CN1
+Removed Member From Class: ClassName=iCE Banks Member=CN5
+Removed Member From Class: ClassName=iCE Banks Member=IC11
+Removed Member From Class: ClassName=iCE Banks Member=R35
+Removed Member From Class: ClassName=iCE Banks Member=R36
+Removed Member From Class: ClassName=iCE Banks Member=R37
+Removed Member From Class: ClassName=iCE Banks Member=R38
+Removed Member From Class: ClassName=iCE Banks Member=R39
+Removed Member From Class: ClassName=iCE Banks Member=TP5
+Change component parameters: Designator = "CN2"; Footprint = "SMA_Connector"; UniqueID = "\DCEYHTVQ\XYPTWPKW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "5-1814400-1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN3"; Footprint = "CON_12x2"; UniqueID = "\LVCRJUFG\TMUUFWMH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6-534236-2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN4"; Footprint = "USB_Micro"; UniqueID = "\KEHBRMGY\SYARHLSI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "10118193-0001LF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D11"; Footprint = "LED_RGB 5x5mm"; UniqueID = "\LVCRJUFG\QTAMHFFB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LTST-G563EGBW"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC2"; Footprint = "SOT-23-5"; UniqueID = "\DCEYHTVQ\MMUFIDBE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "MCP6271T-E/OT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC3"; Footprint = "SOIC-8"; UniqueID = "\OADUORXW\YYQVQVMH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LE25U20AMB-AH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC4"; Footprint = "LQFP_64"; UniqueID = "\GUFJTCIR\TOHWMDHD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "FT2232HL-TRAY"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC5"; Footprint = "SOIC-8"; UniqueID = "\GUFJTCIR\FESLRYHT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "93LC56BT/SN"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC9"; Footprint = "SOT89-3L"; UniqueID = "\KEHBRMGY\YDJIWWOJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "AP7217D-12YG-13"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC10"; Footprint = "SOT89-3L"; UniqueID = "\KEHBRMGY\FKNFKGCY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "AP7365-33YG-13"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP2"; Footprint = "Jumper 2x1"; UniqueID = "\OADUORXW\AOXWLFTC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW0"; Footprint = "SWITCH_6X6mm"; UniqueID = "\LVCRJUFG\QNLJNJLP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "PTS645SM43SMTR92 LFS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1"; Footprint = "SWITCH_6X6mm"; UniqueID = "\LVCRJUFG\XMBTYTFS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "PTS645SM43SMTR92 LFS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW2"; Footprint = "SWITCH_6X6mm"; UniqueID = "\LVCRJUFG\PSAJQFXC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "PTS645SM43SMTR92 LFS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW3"; Footprint = "SWITCH_6X6mm"; UniqueID = "\LVCRJUFG\NFVMYBKP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "PTS645SM43SMTR92 LFS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP1"; Footprint = "TP_TOP"; UniqueID = "\DCEYHTVQ\WGJWEKCA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "TP Name"; Value = "PWM_PIN"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP2"; Footprint = "TP_TH"; UniqueID = "\DCEYHTVQ\ERRLBIJQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "TP Name"; Value = "DAC_OUT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP3"; Footprint = "TP_TOP"; UniqueID = "\OADUORXW\PTQGWANT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "TP Name"; Value = "+1V2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP4"; Footprint = "TP_TOP"; UniqueID = "\OADUORXW\HOJAAKQN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "TP Name"; Value = "+3V3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP6"; Footprint = "TP_TOP"; UniqueID = "\OADUORXW\SHCADKHV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "TP Name"; Value = "+3V3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP7"; Footprint = "TP_TOP"; UniqueID = "\OADUORXW\IPGERNQN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "TP Name"; Value = "+3V3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP9"; Footprint = "TP_TOP"; UniqueID = "\KEHBRMGY\IOAIQEFD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "TP Name"; Value = "USB_BUS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP10"; Footprint = "TP_TOP"; UniqueID = "\KEHBRMGY\MNHBYXVY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "TP Name"; Value = "VREF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP11"; Footprint = "TP_TOP"; UniqueID = "\KEHBRMGY\GHGPSKHW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "TP Name"; Value = "+5V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP12"; Footprint = "TP_TOP"; UniqueID = "\KEHBRMGY\GYLPJJSO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "TP Name"; Value = "+3V3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP13"; Footprint = "TP_TOP"; UniqueID = "\KEHBRMGY\UKJSTSCL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "TP Name"; Value = "+1V2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP14"; Footprint = "TP_TH"; UniqueID = "\KEHBRMGY\ULQOMDRT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "TP Name"; Value = "PGND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP15"; Footprint = "TP_TOP"; UniqueID = "\KEHBRMGY\OJSGWPNW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "TP Name"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP16"; Footprint = "TP_TOP"; UniqueID = "\KEHBRMGY\WDYCAAFQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "TP Name"; Value = "AGND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D0"; Footprint = "LED_0603"; UniqueID = "\LVCRJUFG\KBKRLYNR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "LED_0603"; UniqueID = "\LVCRJUFG\YVJFDJJV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "LED_0603"; UniqueID = "\LVCRJUFG\LWWOEOOF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3"; Footprint = "LED_0603"; UniqueID = "\LVCRJUFG\XKGLYVYP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4"; Footprint = "LED_0603"; UniqueID = "\LVCRJUFG\SEKTLAUO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5"; Footprint = "LED_0603"; UniqueID = "\LVCRJUFG\JQRPUSIN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6"; Footprint = "LED_0603"; UniqueID = "\LVCRJUFG\SWQXYFBM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7"; Footprint = "LED_0603"; UniqueID = "\LVCRJUFG\CNYGLBTX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D9"; Footprint = "LED_0603"; UniqueID = "\OADUORXW\LHVBGHEN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LTST-C190KSKT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D13"; Footprint = "LED_0603"; UniqueID = "\KEHBRMGY\UNURKBYU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D14"; Footprint = "LED_0603"; UniqueID = "\KEHBRMGY\OVCOWQPI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LTST-C190KSKT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "OSC1"; Footprint = "VFLGA_2.5x2.0"; UniqueID = "\LVCRJUFG\QYXEBPLC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Frequency"; Value = "12MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "DSC6003JI2A-012.0000T"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X1"; Footprint = "XTAL_3.2x2.5"; UniqueID = "\GUFJTCIR\KDFVGFFC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Frquency"; Value = "12MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ECS-120-12-33-AGN-TR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FB1"; Footprint = "FERRITE_BEAD_0603"; UniqueID = "\GUFJTCIR\JNGFDBTX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "In"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "BLM18AG121SN1D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FB2"; Footprint = "FERRITE_BEAD_0603"; UniqueID = "\GUFJTCIR\XXAPGPCQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "In"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "BLM18AG121SN1D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FB3"; Footprint = "FERRITE_BEAD_0603"; UniqueID = "\KEHBRMGY\SGRRPYFI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "In"; Value = "800mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "BLM18AG121SN1D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FB4"; Footprint = "FERRITE_BEAD_0603"; UniqueID = "\KEHBRMGY\OEEDIGOJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "In"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "BLM18AG121SN1D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FB5"; Footprint = "FERRITE_BEAD_0603"; UniqueID = "\KEHBRMGY\JQSELVHP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "In"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "BLM18AG121SN1D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC6"; Footprint = "TSSOP-6"; UniqueID = "\LVCRJUFG\VBQTPUPH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Package"; Value = "TSSOP-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "BC846BDW1T1G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC7"; Footprint = "TSSOP-6"; UniqueID = "\LVCRJUFG\CWLCLXDD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Package"; Value = "TSSOP-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "BC846BDW1T1G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC8"; Footprint = "SOT-23-3"; UniqueID = "\KEHBRMGY\XDNNBPOF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "MCP1541T-I/TT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference Voltage"; Value = "4.096V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW4"; Footprint = "SWITCH_6X6mm"; UniqueID = "\OADUORXW\OSCRYPWB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "PTS645SM43SMTR92 LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Serigrafia"; Value = "RST"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8"; Footprint = "SOD-523"; UniqueID = "\OADUORXW\NPYUAXAC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "In"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RB521S30T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D10"; Footprint = "SOD-323"; UniqueID = "\OADUORXW\MHPDYXFL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "In"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "NSR0530HT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC1"; Footprint = "SOT-23-8"; UniqueID = "\DCEYHTVQ\BGAXCTMP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Bits"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Communication"; Value = "SPI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "AD5061BRJZ-2REEL7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Settling Time"; Value = "4us"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "RES_0603"; UniqueID = "\OADUORXW\WDIUFFMH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002EAS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "RES_0603"; UniqueID = "\OADUORXW\EXQBSWQL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002EAS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "RES_0603"; UniqueID = "\OADUORXW\UNGSLKBL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0603FR-07649RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "649"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "RES_0603"; UniqueID = "\OADUORXW\TAEQFSUF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1000ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "RES_0603"; UniqueID = "\OADUORXW\OGCEDDRH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1000ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "RES_0603"; UniqueID = "\OADUORXW\BCEBTXLY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002EAS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "RES_0603"; UniqueID = "\OADUORXW\YQROAAYO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002EAS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "RES_0603"; UniqueID = "\OADUORXW\LKMXNQUJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002EAS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "RES_0603"; UniqueID = "\GUFJTCIR\AWHONQQY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1001ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "RES_0603"; UniqueID = "\GUFJTCIR\HCCVXHWA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1202ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11"; Footprint = "RES_0603"; UniqueID = "\GUFJTCIR\RFVLCXIF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "AC0603FR-072K2L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2k2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12"; Footprint = "RES_0603"; UniqueID = "\GUFJTCIR\HDYLCLYH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002EAS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13"; Footprint = "RES_0603"; UniqueID = "\GUFJTCIR\QDWOYLFM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002EAS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14"; Footprint = "RES_0603"; UniqueID = "\GUFJTCIR\BUBWXSQC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002EAS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\NDKXBHEB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1800ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "180"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\IWJQUCXO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1200ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\HCNWGQKO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1200ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\JBLTOVUM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1300ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\QDNNOXOX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002EAS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\YBYRRBQS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1300ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\LNEBJFXD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-2612ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "26.1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\BYQNXGQL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-2612ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "26.1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\XGNDYVBO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-2612ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "26.1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\HAFKPYQB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1300ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\JWGFVRSF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1300ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\ITVFUDWA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002EAS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\IYPBKETJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1300ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\TMRVECTW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1300ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\JGQRHNGY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002EAS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\ACVTBDLS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1300ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\POQTKRFE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1300ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "130"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32"; Footprint = "RES_0603"; UniqueID = "\LVCRJUFG\OSKPHLKX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002EAS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33"; Footprint = "RES_0603"; UniqueID = "\KEHBRMGY\QNNHDVDQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-JW-331ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34"; Footprint = "RES_0603"; UniqueID = "\KEHBRMGY\WHPCTFIK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1500ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40"; Footprint = "RES_0603"; UniqueID = "\DCEYHTVQ\RDDKUCPN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002EAS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41"; Footprint = "RES_0603"; UniqueID = "\DCEYHTVQ\TEEKYATG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1001ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D12"; Footprint = "DO-214AC"; UniqueID = "\KEHBRMGY\ILKLLWUY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "SMAJ5.0A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vc"; Value = "9.2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vr"; Value = "5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vrb"; Value = "6.4V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "CAP_0603"; UniqueID = "\DCEYHTVQ\SLLAINDM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "CAP_TANT_1206"; UniqueID = "\DCEYHTVQ\KNTCIYIA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Tantalum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TAJA106K006RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "6V3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "CAP_0603"; UniqueID = "\LVCRJUFG\WSSRMMNT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "CAP_0603"; UniqueID = "\OADUORXW\ONHNVOPM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "CAP_0603"; UniqueID = "\OADUORXW\LDUQRFNN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "CAP_0603"; UniqueID = "\OADUORXW\EJAWYMYN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "CAP_0603"; UniqueID = "\OADUORXW\EFPWRVIJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "CAP_0603"; UniqueID = "\OADUORXW\RGNEEFIF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10A225KQ8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "6V3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = "CAP_0603"; UniqueID = "\OADUORXW\EPLPQPRU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10"; Footprint = "CAP_0603"; UniqueID = "\OADUORXW\LBWXTYEV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11"; Footprint = "CAP_0603"; UniqueID = "\OADUORXW\XYVRFHFF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12"; Footprint = "CAP_0603"; UniqueID = "\OADUORXW\BLFGVRFG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13"; Footprint = "CAP_0603"; UniqueID = "\OADUORXW\LDVMEKBD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14"; Footprint = "CAP_TANT_1206"; UniqueID = "\OADUORXW\JXJPVCNY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Tantalum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TAJA106K006RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "6V3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15"; Footprint = "CAP_TANT_1206"; UniqueID = "\OADUORXW\PYVTMIMM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Tantalum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TAJA106K006RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "6V3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16"; Footprint = "CAP_0603"; UniqueID = "\OADUORXW\YLJXELWD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17"; Footprint = "CAP_0603"; UniqueID = "\OADUORXW\SVLKRPXR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18"; Footprint = "CAP_0603"; UniqueID = "\OADUORXW\JKFPYLVI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19"; Footprint = "CAP_0603"; UniqueID = "\GUFJTCIR\CRBNKGYO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20"; Footprint = "CAP_0603"; UniqueID = "\GUFJTCIR\BUJYEHKS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21"; Footprint = "CAP_TANT_1206"; UniqueID = "\GUFJTCIR\IKELRFLE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Tantalum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TAJA475K010RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22"; Footprint = "CAP_0603"; UniqueID = "\GUFJTCIR\OKOXGFAH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23"; Footprint = "CAP_0603"; UniqueID = "\GUFJTCIR\PDGILRLI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24"; Footprint = "CAP_TANT_1206"; UniqueID = "\GUFJTCIR\RGDHHYEH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Tantalum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TAJA475K010RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25"; Footprint = "CAP_0603"; UniqueID = "\GUFJTCIR\TOJMWBGL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26"; Footprint = "CAP_0603"; UniqueID = "\GUFJTCIR\GSVQUCQO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27"; Footprint = "CAP_0603"; UniqueID = "\GUFJTCIR\GFUKAVHF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C1608X7S1A335K080AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28"; Footprint = "CAP_0603"; UniqueID = "\GUFJTCIR\IVGGXHNL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10C120JB8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29"; Footprint = "CAP_0603"; UniqueID = "\GUFJTCIR\OMDGQWFF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10C120JB8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30"; Footprint = "CAP_0603"; UniqueID = "\GUFJTCIR\EXITWQMK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31"; Footprint = "CAP_0603"; UniqueID = "\LVCRJUFG\GHUVBSCA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10A225KQ8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "6V3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32"; Footprint = "CAP_0603"; UniqueID = "\LVCRJUFG\VVHSFCJC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10A225KQ8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "6V3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33"; Footprint = "CAP_0603"; UniqueID = "\LVCRJUFG\NUXNRWXD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10A225KQ8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "6V3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34"; Footprint = "CAP_0603"; UniqueID = "\LVCRJUFG\XNQNHHVW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10A225KQ8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "6V3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35"; Footprint = "CAP_0603"; UniqueID = "\KEHBRMGY\DHUPKPUC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CC0603KRX7R7BB103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36"; Footprint = "CAP_0603"; UniqueID = "\KEHBRMGY\PAQDWAUP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C37"; Footprint = "CAP_TANT_1206"; UniqueID = "\KEHBRMGY\JNSWSGFB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Tantalum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TAJA106K006RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "6V3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C38"; Footprint = "CAP_0603"; UniqueID = "\KEHBRMGY\PVMRQRJG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B105KP8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C39"; Footprint = "CAP_0603"; UniqueID = "\KEHBRMGY\HNYKJCJN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B105KP8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C40"; Footprint = "CAP_0603"; UniqueID = "\KEHBRMGY\LCSKKJER"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B105KP8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C41"; Footprint = "CAP_0603"; UniqueID = "\KEHBRMGY\BDKXJICF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL10B105KP8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VR"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1"; Footprint = "LATC-TQFP-144_L"; UniqueID = "\DCEYHTVQ\ACIVUHIW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.latticesemi.com/en"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.latticesemi.com/~/media/Documents/DataSheets/iCE/iCE40LPHXFamilyDataSheet.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.latticesemi.com/lit/docs/package/pkg.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 02.9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Embedded RAM Bits"; Value = "80K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Logic Cells"; Value = "3520"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Lattice Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "144-Pin Thin Quad Flat Package, Body 20 x 20 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TQFP-144"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. 03.9, 02/2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ICE40HX4K-TQ144"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "ICE40HX4K-TQ144"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Phase-Locked Loops"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Voltage"; Value = "1.2V"; VariantName = "[No Variations]"
+Added Room: Name=FTDI Interface
+Added Room: Name=iCE Banks
+Added Room: Name=iCE Programming & Power
+Added Room: Name=Miscellaneous
+Added Room: Name=USB & Power

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PWM_DIF_N Pin=U1-97
+Removed Pin From Net: NetName=PWM_DIF_P Pin=U1-98
+Added Pin To Net: NetName=PWM_DIF_P Pin=U1-82
+Added Pin To Net: NetName=PWM_DIF_N Pin=U1-83

@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MercurialSDR.PcbDoc   11/10/2019  11:36:13
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MercurialSDR-RoundHoles.TXT
+ASCII SlotHoles File : MercurialSDR-SlotHoles.TXT
+EIA File   : MercurialSDR.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.4mm (16mil)                                             Round             237       PTH        1061.00mm (41.77inch)
+T2      0.8mm (31mil)                                             Round             3         PTH        87.36mm (3.44inch)
+T3      0.889mm (35mil)                                           Round             24        PTH        83.82mm (3.30inch)
+T4      0.91mm (36mil)                                            Round             6         PTH        17.78mm (0.70inch)
+T5      1.5mm (59mil)                                             Round             3         PTH        48.76mm (1.92inch)
+T6      1.6mm (63mil)                                             Round             12        PTH        89.96mm (3.54inch)
+T7      0.5mm (20mil)                                             Slot              2         NPTH       14.64mm (0.58inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              287
+
+Total Processing Time (hh:mm:ss) : 00:00:01

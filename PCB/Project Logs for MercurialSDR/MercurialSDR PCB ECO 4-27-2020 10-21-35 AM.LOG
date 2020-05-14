@@ -1,0 +1,121 @@
+Added Component: Designator=C1(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_TANT_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Material"; Value = "Tantalum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TAJA106K006RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VR"; Value = "6V3"; VariantName = "[No Variations]"
+Added Component: Designator=C36(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL10B104KO8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Coef"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VR"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C37(CAP_TANT_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Material"; Value = "Tantalum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TAJA106K006RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VR"; Value = "6V3"; VariantName = "[No Variations]"
+Added Component: Designator=CN2(SMA_Connector)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "5-1814400-1"; VariantName = "[No Variations]"
+Added Component: Designator=FB5(FERRITE_BEAD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "In"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BLM18AG121SN1D"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOT-23-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Bits"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Communication"; Value = "SPI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "AD5061BRJZ-2REEL7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Settling Time"; Value = "4us"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(SOT-23-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "MCP6271T-E/OT"; VariantName = "[No Variations]"
+Added Component: Designator=IC8(SOT-23-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "MCP1541T-I/TT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Voltage"; Value = "4.096V"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002EAS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1001ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TP_TH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "TP Name"; Value = "DAC_OUT"; VariantName = "[No Variations]"
+Added Component: Designator=TP16(TP_TOP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "TP Name"; Value = "AGND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+5V Pin=C2-1
+Added Pin To Net: NetName=AGND Pin=C2-2
+Added Pin To Net: NetName=+5V Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=VREF Pin=C37-1
+Added Pin To Net: NetName=AGND Pin=C37-2
+Added Pin To Net: NetName=NetCN2_1 Pin=CN2-1
+Added Pin To Net: NetName=AGND Pin=CN2-2
+Added Pin To Net: NetName=AGND Pin=CN2-2
+Added Pin To Net: NetName=AGND Pin=CN2-2
+Added Pin To Net: NetName=AGND Pin=CN2-2
+Added Pin To Net: NetName=GND Pin=FB5-1
+Added Pin To Net: NetName=AGND Pin=FB5-2
+Added Pin To Net: NetName=DAC_DATA_IN Pin=IC1-1
+Added Pin To Net: NetName=+5V Pin=IC1-2
+Added Pin To Net: NetName=VREF Pin=IC1-3
+Added Pin To Net: NetName=DAC_OUT Pin=IC1-4
+Added Pin To Net: NetName=AGND Pin=IC1-5
+Added Pin To Net: NetName=GND Pin=IC1-6
+Added Pin To Net: NetName=DAC_SYNC Pin=IC1-7
+Added Pin To Net: NetName=DAC_SCLK Pin=IC1-8
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-1
+Added Pin To Net: NetName=AGND Pin=IC2-2
+Added Pin To Net: NetName=DAC_OUT Pin=IC2-3
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-4
+Added Pin To Net: NetName=+5V Pin=IC2-5
+Added Pin To Net: NetName=+5V Pin=IC8-1
+Added Pin To Net: NetName=VREF Pin=IC8-2
+Added Pin To Net: NetName=GND Pin=IC8-3
+Added Pin To Net: NetName=NetIC2_1 Pin=R40-1
+Added Pin To Net: NetName=NetCN2_1 Pin=R40-2
+Added Pin To Net: NetName=NetCN2_1 Pin=R41-1
+Added Pin To Net: NetName=AGND Pin=R41-2
+Added Pin To Net: NetName=DAC_OUT Pin=TP2-1
+Added Pin To Net: NetName=AGND Pin=TP16-1
+Added Member To Class: ClassName=iCE Banks Member=Component C1 Capacitor
+Added Member To Class: ClassName=iCE Banks Member=Component C2 Capacitor Polarizado
+Added Member To Class: ClassName=USB & Power Member=Component C36 Capacitor
+Added Member To Class: ClassName=USB & Power Member=Component C37 Capacitor Polarizado
+Added Member To Class: ClassName=iCE Banks Member=Component CN2 SMA
+Added Member To Class: ClassName=USB & Power Member=Component FB5 Ferrite Bead
+Added Member To Class: ClassName=iCE Banks Member=Component IC1 Serial DAC
+Added Member To Class: ClassName=iCE Banks Member=Component IC2 OPAMP
+Added Member To Class: ClassName=USB & Power Member=Component IC8 Vref
+Added Member To Class: ClassName=iCE Banks Member=Component R40 Resistor SMD
+Added Member To Class: ClassName=iCE Banks Member=Component R41 Resistor SMD
+Added Member To Class: ClassName=iCE Banks Member=Component TP2 Test Point
+Added Member To Class: ClassName=USB & Power Member=Component TP16 Test Point
+Added Room: Name=FTDI Interface
+Added Room: Name=iCE Banks
+Added Room: Name=iCE Programming & Power
+Added Room: Name=Miscellaneous
+Added Room: Name=USB & Power

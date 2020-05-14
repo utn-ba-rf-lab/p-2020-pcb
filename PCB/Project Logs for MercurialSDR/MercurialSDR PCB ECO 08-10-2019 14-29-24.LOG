@@ -1,0 +1,7 @@
+Added Component: Designator=CN5(SMA_Connector)
+Added Pin To Net: NetName=NetCN5_1 Pin=CN5-1
+Added Pin To Net: NetName=NetCN5_2 Pin=CN5-2
+Added Pin To Net: NetName=NetCN5_2 Pin=CN5-2
+Added Pin To Net: NetName=NetCN5_2 Pin=CN5-2
+Added Pin To Net: NetName=NetCN5_2 Pin=CN5-2
+Added Member To Class: ClassName=iCE Banks Member=Component CN5 SMA

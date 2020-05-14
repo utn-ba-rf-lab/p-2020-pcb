@@ -1,0 +1,135 @@
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~293|Field=Comment~String~Comment~71|Field=Description~String~Description~728|Field=Quantity~Integer~Quantity~79|Field=Footprint~String~Footprint~364|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~MercurialSDR.PrjPcb|ReportField=ProjectFullPath~C:\Users\marii\Desktop\PCB-master\MercurialSDR\MercurialSDR.PrjPcb|ReportField=Title~Bill of Materials For Project [MercurialSDR.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~134|ReportField=ReportTime~9:52:49 AM|ReportField=ReportDate~5/1/2020|ReportField=ReportDateTime~5/1/2020 9:52:49 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Andres Hojnadel|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~5/1/2020|ReportField=CurrentTime~9:44:08 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\marii\Desktop\PCB-master\MercurialSDR\MercurialSDR_BLK.SchDoc|ReportField=DocumentName~MercurialSDR_BLK.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Andres Hojnadel|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~1/21/2020|ReportField=Organization~|ReportField=ProjectName~MercurialSDR.PrjPcb|ReportField=Revision~Rev2.0|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~6|ReportField=Time~|ReportField=Title~MercurialSDR - Block Diagram|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~MercurialSDR.PrjPcb|ReportField=DataSourceFullPath~C:\Users\marii\Desktop\PCB-master\MercurialSDR\MercurialSDR.PrjPcb|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|C1|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+2|C2|10uF 6V3 - TAJA106K006RNJ|Capacitor polarizado|1|CAP_TANT_1206
+3|C3|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+4|C4|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+5|C5|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+6|C6|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+7|C7|2.2uF 6V3 X5R - CL10A225KQ8NNNC|Capacitor no polarizado|1|CAP_0603
+8|C8|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+9|C9|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+10|C10|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+11|C11|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+12|C12|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+13|C13|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+14|C14|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+15|C15|10uF 6V3 - TAJA106K006RNJ|Capacitor polarizado|1|CAP_TANT_1206
+16|C16|10uF 6V3 X7R- TAJA106K006RNJ|Capacitor polarizado|1|CAP_TANT_1206
+17|C17|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+18|C18|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+19|C19|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+20|C20|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+21|C21|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+22|C22|4.7uF 10V - TAJA475K010RNJ|Capacitor polarizado|1|CAP_TANT_1206
+23|C23|4.7uF 10V - TAJA475K010RNJ|Capacitor polarizado|1|CAP_TANT_1206
+24|C24|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+25|C25|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+26|C26|3.3uF10V X7S - C1608X7S1A335K080AC|Capacitor no polarizado|1|CAP_0603
+27|C27|12pF 50V C0G - CL10C120JB8NNNC|Capacitor no polarizado|1|CAP_0603
+28|C28|12pF 50V C0G - CL10C120JB8NNNC|Capacitor no polarizado|1|CAP_0603
+29|C29|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+30|C30|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+31|C31|2.2uF 6V3 X5R - CL10A225KQ8NNNC|Capacitor no polarizado|1|CAP_0603
+32|C32|2.2uF 6V3 X5R - CL10A225KQ8NNNC|Capacitor no polarizado|1|CAP_0603
+33|C33|2.2uF 6V3 X5R - CL10A225KQ8NNNC|Capacitor no polarizado|1|CAP_0603
+34|C34|2.2uF 6V3 X5R - CL10A225KQ8NNNC|Capacitor no polarizado|1|CAP_0603
+35|C35|10nF 16v X7R  - CC0603KRX7R7BB103|Capacitor no polarizado|1|CAP_0603
+36|C36|100nF 16V X7R - CL10B104KO8NNNC|Capacitor no polarizado|1|CAP_0603
+37|C37|10uF 6V3 - TAJA106K006RNJ|Capacitor polarizado|1|CAP_TANT_1206
+38|C38|1uF 10V X7R - CL10B105KP8NNNC|Capacitor no polarizado|1|CAP_0603
+39|C39|1uF 10V X7R - CL10B105KP8NNNC|Capacitor no polarizado|1|CAP_0603
+40|C40|1uF 10V X7R - CL10B105KP8NNNC|Capacitor no polarizado|1|CAP_0603
+41|C41|1uF 10V X7R - CL10B105KP8NNNC|Capacitor no polarizado|1|CAP_0603
+42|CN1|5-1814400-1|Conector SMA|1|SMA_Connector
+43|CN2|6-534236-2|Conector genérico 12x2|1|CON_12x2
+44|CN3|10118193-0001LF|USB Plug|1|USB_Micro
+45|D1|RB521S30T1G|Diodo Schottkey|1|SOD-523
+46|D2|LTST-C190KSKT|Led|1|LED_0603
+47|D3|NSR0530HT1G|Diodo Schottkey|1|SOD-323
+48|D4|LTST-G563EGBW|Led RGB|1|LED_RGB 5x5mm
+49|D5|LTST-C190KRKT|Led_small|1|LED_0603
+50|D6|LTST-C190KRKT|Led_small|1|LED_0603
+51|D7|LTST-C190KRKT|Led_small|1|LED_0603
+52|D8|LTST-C190KRKT|Led_small|1|LED_0603
+53|D9|LTST-C190KRKT|Led_small|1|LED_0603
+54|D10|LTST-C190KRKT|Led_small|1|LED_0603
+55|D11|LTST-C190KRKT|Led_small|1|LED_0603
+56|D12|LTST-C190KRKT|Led_small|1|LED_0603
+57|D13|SMAJ5.0A|TVS Diode (Supresor de transitorios)|1|DO-214AC
+58|D14|LTST-C190KRKT|Led|1|LED_0603
+59|D15|LTST-C190KSKT|Led Yellow|1|LED_0603
+60|FB1|BLM18AG121SN1D|Ferrite Bead|1|FERRITE_BEAD_0603
+61|FB2|BLM18AG121SN1D|Ferrite Bead|1|FERRITE_BEAD_0603
+62|FB3|BLM18AG121SN1D|Ferrite Bead|1|FERRITE_BEAD_0603
+63|FB4|BLM18AG121SN1D|Ferrite Bead|1|FERRITE_BEAD_0603
+64|FB5|BLM18AG121SN1D|Ferrite Bead|1|FERRITE_BEAD_0603
+65|IC1|AD5061BRJZ-2REEL7|DAC SPI|1|SOT-23-8
+66|IC2|MCP6271T-E/OT|Operational Amplifier|1|SOT-23-5
+67|IC3|LE25U20AMB|Flash Memmory SPI (256Kx8)|1|SOIC-8
+68|IC4|FT2232HL-TRAY|USB bridge|1|LQFP_64
+69|IC5|93LC56BT|EEPROM SPI 2kb (128x16)|1|SOIC-8
+70|IC6|BC846BDW1T1G|TBJ NPN Dual|1|TSSOP-6
+71|IC7|BC846BDW1T1G|TBJ NPN Dual|1|TSSOP-6
+72|IC8|MCP1541T-I/TT|Reference Voltage|1|SOT-23-3
+73|IC9|AP7215 - AP7365-33YG-13|Linear Voltage Regulator 3v3|1|SOT89-3L
+74|IC10|AP7217D - AP7217D-12YG-13|Linear Voltage Regulator 1V2|1|SOT89-3L
+75|JP1|Jumper|Jumper 2x2|1|Jumper 2x2
+76|JP2|Jumper|Jumper|1|Jumper 2x1
+77|OSC1|DSC6003JI2A-012.0000T|Oscilador de 4 terminales|1|VFLGA_2.5x2.0
+78|R1|10k 1% 1/10W - CR0603-FX-1002EAS|Resistor|1|RES_0603
+79|R2|1k 1% 1/10W - CR0603-FX-1001ELF|Resistor|1|RES_0603
+80|R3|10k 1% 1/10W - CR0603-FX-1002EAS|Resistor|1|RES_0603
+81|R4|10k 1% 1/10W - CR0603-FX-1002EAS|Resistor|1|RES_0603
+82|R5|649 1% 1/10W - RC0603FR-07649RL|Resistor|1|RES_0603
+83|R6|100 1% 1/10W - CR0603-FX-1000ELF|Resistor|1|RES_0603
+84|R7|100 1% 1/10W - CR0603-FX-1000ELF|Resistor|1|RES_0603
+85|R8|10k 1% 1/10W - CR0603-FX-1002EAS|Resistor|1|RES_0603
+86|R9|10k 1% 1/10W - CR0603-FX-1002EAS|Resistor|1|RES_0603
+87|R10|10k 1% 1/10W - CR0603-FX-1002EAS|Resistor|1|RES_0603
+88|R11|1k 1% 1/10W - CR0603-FX-1001ELF|Resistor|1|RES_0603
+89|R12|12k 1% 1/10W - CR0603-FX-1202ELF|Resistor|1|RES_0603
+90|R13|2k2 1% 1/10W - AC0603FR-072K2L|Resistor|1|RES_0603
+91|R14|10k 1% 1/10W - CR0603-FX-1002EAS|Resistor|1|RES_0603
+92|R15|10k 1% 1/10W - CR0603-FX-1002EAS|Resistor|1|RES_0603
+93|R16|10k 1% 1/10W - CR0603-FX-1002EAS|Resistor|1|RES_0603
+94|R17|10k 1% 1/10W - CR0603-FX-1002EAS|Resistor|1|RES_0603
+95|R18|180 1% 1/10W - CR0603-FX-1800ELF|Resistor|1|RES_0603
+96|R19|120 1% 1/10W - CR0603-FX-1200ELF|Resistor|1|RES_0603
+97|R20|120 1% 1/10W - CR0603-FX-1200ELF|Resistor|1|RES_0603
+98|R21|10k 1% 1/10W - CR0603-FX-1002EAS|Resistor|1|RES_0603
+99|R22|26.1k 1% 1/10W - CR0603-FX-2612ELF|Resistor|1|RES_0603
+100|R23|26.1k 1% 1/10W - CR0603-FX-2612ELF|Resistor|1|RES_0603
+101|R24|26.1k 1% 1/10W - CR0603-FX-2612ELF|Resistor|1|RES_0603
+102|R25|130 1% 1/10W - CR0603-FX-1300ELF|Resistor|1|RES_0603
+103|R26|10k 1% 1/10W - CR0603-FX-1002EAS|Resistor|1|RES_0603
+104|R27|130 1% 1/10W - CR0603-FX-1300ELF|Resistor|1|RES_0603
+105|R28|130 1% 1/10W - CR0603-FX-1300ELF|Resistor|1|RES_0603
+106|R29|130 1% 1/10W - CR0603-FX-1300ELF|Resistor|1|RES_0603
+107|R30|10k 1% 1/10W - CR0603-FX-1002EAS|Resistor|1|RES_0603
+108|R31|130 1% 1/10W - CR0603-FX-1300ELF|Resistor|1|RES_0603
+109|R32|130 1% 1/10W - CR0603-FX-1300ELF|Resistor|1|RES_0603
+110|R33|130 1% 1/10W - CR0603-FX-1300ELF|Resistor|1|RES_0603
+111|R34|130 1% 1/10W - CR0603-FX-1300ELF|Resistor|1|RES_0603
+112|R35|330 5% 1/10W - CR0603-JW-331ELF|Resistor|1|RES_0603
+113|R36|150 1% 1/10W - CR0603-FX-1500ELF|Resistor|1|RES_0603
+114|SW1|PTS645SM43SMTR92 LFS|Pulsador|1|SWITCH_6X6mm
+115|SW2|PTS645SM43SMTR92 LFS|Pulsador|1|SWITCH_6X6mm
+116|SW3|PTS645SM43SMTR92 LFS|Pulsador|1|SWITCH_6X6mm
+117|SW4|PTS645SM43SMTR92 LFS|Pulsador|1|SWITCH_6X6mm
+118|SW5|PTS645SM43SMTR92 LFS|Pulsador|1|SWITCH_6X6mm
+119|TP1|Test Point|Test Point|1|TP_TH
+120|TP2|Test Point|Test Point|1|TP_TOP
+121|TP3|Test Point|Test Point|1|TP_TOP
+122|TP4|Test Point|Test Point|1|TP_TOP
+123|TP5|Test Point|Test Point|1|TP_TOP
+124|TP6|Test Point|Test Point|1|TP_TOP
+125|TP7|Test Point|Test Point|1|TP_TOP
+126|TP8|Test Point|Test Point|1|TP_TOP
+127|TP9|Test Point|Test Point|1|TP_TOP
+128|TP10|Test Point|Test Point|1|TP_TOP
+129|TP11|Test Point|Test Point|1|TP_TOP
+130|TP12|Test Point|Test Point|1|TP_TH
+131|TP13|Test Point|Test Point|1|TP_TOP
+132|TP14|Test Point|Test Point|1|TP_TOP
+133|U1|ICE40HX4K-TQ144|iCE40 HX4K Series FPGA Family, 3520 Logic Cells, 1.2 V Core, 80 K Embedded RAM Bits, 144-pin TQFP, Pb-Free, Tray|1|LATC-TQFP-144_L
+134|X1|ECS-120-12-33-AGN-TR|Oscilador a Cristal|1|XTAL_3.2x2.5

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetIC2_1 Pin=TP2-1
+Added Pin To Net: NetName=DAC_OUT Pin=TP2-1

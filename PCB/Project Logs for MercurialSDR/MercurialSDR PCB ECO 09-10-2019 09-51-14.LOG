@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetCN1_1 Pin=CN1-1
+Removed Pin From Net: NetName=NetCN2_1 Pin=CN2-1
+Added Component: Designator=R38(RES_0603)
+Added Component: Designator=R39(RES_0603)
+Added Component: Designator=R40(RES_0603)
+Added Component: Designator=R41(RES_0603)
+Added Pin To Net: NetName=NetCN1_1 Pin=R38-1
+Added Pin To Net: NetName=GND Pin=R39-2
+Added Pin To Net: NetName=NetCN2_1 Pin=R40-1
+Added Pin To Net: NetName=AGND Pin=R41-2
+Change Net Name : Old Net Name=NetCN1_1 New Net Name=NetIC11_1
+Change Net Name : Old Net Name=NetCN2_1 New Net Name=NetIC2_1
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Pin To Net: NetName=NetCN1_1 Pin=R38-2
+Added Pin To Net: NetName=NetCN1_1 Pin=R39-1
+Added Net: Name=NetCN1_1
+Added Pin To Net: NetName=NetCN2_1 Pin=CN2-1
+Added Pin To Net: NetName=NetCN2_1 Pin=R40-2
+Added Pin To Net: NetName=NetCN2_1 Pin=R41-1
+Added Net: Name=NetCN2_1
+Added Member To Class: ClassName=iCE Banks Member=Component R38 Resistor SMD
+Added Member To Class: ClassName=iCE Banks Member=Component R39 Resistor SMD
+Added Member To Class: ClassName=iCE Banks Member=Component R40 Resistor SMD
+Added Member To Class: ClassName=iCE Banks Member=Component R41 Resistor SMD

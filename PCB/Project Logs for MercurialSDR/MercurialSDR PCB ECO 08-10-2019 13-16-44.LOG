@@ -1,0 +1,40 @@
+Removed Member From Class: ClassName=iCE Banks Member=C3
+Removed Member From Class: ClassName=iCE Banks Member=OSC1
+Added Component: Designator=C43(CAP_0603)
+Added Component: Designator=C44(CAP_0603)
+Added Component: Designator=C45(CAP_0603)
+Added Component: Designator=C46(CAP_0603)
+Added Component: Designator=R35(RES_0603)
+Added Component: Designator=R36(RES_0603)
+Added Component: Designator=R37(RES_0603)
+Added Pin To Net: NetName=+3V3 Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=+3V3 Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=+3V3 Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C45-2
+Added Pin To Net: NetName=+3V3 Pin=C46-1
+Added Pin To Net: NetName=GND Pin=C46-2
+Change Net Name : Old Net Name=ICE_OSC New Net Name=NetOSC1_3
+Added Pin To Net: NetName=NetCN5_1 Pin=R35-1
+Added Pin To Net: NetName=NetCN5_1 Pin=R36-1
+Added Net: Name=NetCN5_1
+Added Pin To Net: NetName=NetCN5_2 Pin=R36-2
+Added Pin To Net: NetName=NetCN5_2 Pin=R37-1
+Added Net: Name=NetCN5_2
+Added Pin To Net: NetName=PWM_DIF_N Pin=R37-2
+Added Pin To Net: NetName=PWM_DIF_N Pin=U1-97
+Added Net: Name=PWM_DIF_N
+Added Pin To Net: NetName=PWM_DIF_P Pin=R35-2
+Added Pin To Net: NetName=PWM_DIF_P Pin=U1-98
+Added Net: Name=PWM_DIF_P
+Added Differential Pair: Name=PWM_DIF
+Added Member To Class: ClassName=Miscellaneous Member=Component C3 Capacitor
+Added Member To Class: ClassName=FTDI Interface Member=Component C43 Capacitor
+Added Member To Class: ClassName=FTDI Interface Member=Component C44 Capacitor
+Added Member To Class: ClassName=FTDI Interface Member=Component C45 Capacitor
+Added Member To Class: ClassName=FTDI Interface Member=Component C46 Capacitor
+Added Member To Class: ClassName=Miscellaneous Member=Component OSC1 Oscillator
+Added Member To Class: ClassName=iCE Banks Member=Component R35 Resistor SMD
+Added Member To Class: ClassName=iCE Banks Member=Component R36 Resistor SMD
+Added Member To Class: ClassName=iCE Banks Member=Component R37 Resistor SMD
