@@ -1,0 +1,18 @@
+Added Component: Designator=U3(max1681)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX1681ESA+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Maxim_2011-10-27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Maxim Integrated Products"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=U3-1
+Added Pin To Net: NetName=NetC48_1 Pin=U3-2
+Added Pin To Net: NetName=AGND Pin=U3-3
+Added Pin To Net: NetName=NetC48_2 Pin=U3-4
+Added Pin To Net: NetName=-5V Pin=U3-5
+Added Pin To Net: NetName=AGND Pin=U3-6
+Added Pin To Net: NetName=AGND Pin=U3-7
+Added Pin To Net: NetName=+5V Pin=U3-8
+Added Member To Class: ClassName=USB & Power Member=Component U3 MAX1681

@@ -1,0 +1,4 @@
+Change Component Comment : Designator=IC1 Old Comment=MCP6271T-E/OT New Comment=MCP6271 SOT-23-5
+Change component parameters: Designator = "IC1"; Footprint = "SOT-23-5"; UniqueID = "\DCEYHTVQ\WFDARGOR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "MCP6271"; VariantName = "[No Variations]"
