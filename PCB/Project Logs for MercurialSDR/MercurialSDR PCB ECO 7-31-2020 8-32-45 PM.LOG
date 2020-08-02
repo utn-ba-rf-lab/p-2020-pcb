@@ -1,0 +1,19 @@
+Added Component: Designator=IC3(opa2277)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC10(opa2277)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=IC3-1
+Added Pin To Net: NetName=NetC3_2 Pin=IC3-2
+Added Pin To Net: NetName=AGND Pin=IC3-3
+Added Pin To Net: NetName=-5V Pin=IC3-4
+Added Pin To Net: NetName=AGND Pin=IC3-5
+Added Pin To Net: NetName=+5V Pin=IC3-8
+Added Pin To Net: NetName=NetC6_2 Pin=IC10-1
+Added Pin To Net: NetName=AGND Pin=IC10-3
+Added Pin To Net: NetName=-5V Pin=IC10-4
+Added Pin To Net: NetName=AGND Pin=IC10-5
+Added Pin To Net: NetName=+5V Pin=IC10-8
+Added Member To Class: ClassName=iCE Banks Member=Component IC3 OPAMP2277
+Added Member To Class: ClassName=iCE Banks Member=Component IC10 OPAMP2277
