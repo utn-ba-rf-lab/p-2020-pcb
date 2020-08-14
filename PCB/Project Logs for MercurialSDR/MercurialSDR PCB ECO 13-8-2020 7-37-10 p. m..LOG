@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=D_0 Pin=U1-81
+Removed Pin From Net: NetName=D_1 Pin=U1-82
+Removed Pin From Net: NetName=D_2 Pin=U1-83
+Removed Pin From Net: NetName=D_3 Pin=U1-84
+Removed Pin From Net: NetName=D_4 Pin=U1-85
+Removed Pin From Net: NetName=D_5 Pin=U1-87
+Removed Pin From Net: NetName=D_6 Pin=U1-88
+Removed Pin From Net: NetName=D_7 Pin=U1-90
+Removed Pin From Net: NetName=D_8 Pin=U1-91
+Removed Pin From Net: NetName=D_9 Pin=U1-93
+Removed Pin From Net: NetName=D_10 Pin=U1-94
+Removed Pin From Net: NetName=D_11 Pin=U1-95
+Removed Pin From Net: NetName=D_12 Pin=U1-96
+Removed Pin From Net: NetName=D_13 Pin=U1-97
+Removed Pin From Net: NetName=D_14 Pin=U1-98
+Removed Pin From Net: NetName=D_15 Pin=U1-99
+Removed Pin From Net: NetName=R\S\ Pin=U1-101
+Removed Pin From Net: NetName=RSTSEL Pin=U1-102
+Removed Pin From Net: NetName=LDAC Pin=U1-104
+Removed Pin From Net: NetName=A1 Pin=U1-105
+Removed Pin From Net: NetName=A0 Pin=U1-106
+Removed Pin From Net: NetName=W\R\ Pin=U1-107
+Removed Pin From Net: NetName=NetC36_2 Pin=U1-110
+Removed Pin From Net: NetName=NetC37_2 Pin=U1-115
+Removed Pin From Net: NetName=NetR22_2 Pin=U1-121
+Removed Pin From Net: NetName=NetR23_2 Pin=U1-122
+Removed Pin From Net: NetName=NetC38_2 Pin=U1-139
+Removed Pin From Net: NetName=NetC39_2 Pin=U1-144
+Change Component Comment : Designator=C48 Old Comment=2.2uF 12V - 595D476X9016C2T New Comment=47uF 16V - 595D476X9016C2T
+Change Component Comment : Designator=C49 Old Comment=2.2uF 12V - 595D476X9016C2T New Comment=47uF 16V - 595D476X9016C2T
+Change Component Description : Designator=U3 Old Description=No Description Available New Description=Voltage converter
+Change Component Description : Designator=C47 Old Description=Polarized Capacitor (Radial) New Description=Capacitor Polarizado
+Change Component Description : Designator=C48 Old Description=Polarized Capacitor (Radial) New Description=Capacitor Polarizado
+Change Component Description : Designator=C49 Old Description=Polarized Capacitor (Radial) New Description=Capacitor Polarizado
+Change component parameters: Designator = "C48"; Footprint = "CAPPC5932X280N"; UniqueID = "\KEHBRMGY\PBUWVGTG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF 16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C49"; Footprint = "CAPPC5932X280N"; UniqueID = "\KEHBRMGY\DSYHYCKK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF 16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC36_2 Pin=U1-82
+Added Pin To Net: NetName=NetC37_2 Pin=U1-84
+Added Pin To Net: NetName=NetR22_2 Pin=U1-88
+Added Pin To Net: NetName=NetR23_2 Pin=U1-90
+Added Pin To Net: NetName=NetC38_2 Pin=U1-95
+Added Pin To Net: NetName=NetC39_2 Pin=U1-97
+Added Pin To Net: NetName=D_0 Pin=U1-110
+Added Pin To Net: NetName=D_1 Pin=U1-112
+Added Pin To Net: NetName=D_2 Pin=U1-113
+Added Pin To Net: NetName=D_3 Pin=U1-114
+Added Pin To Net: NetName=D_4 Pin=U1-115
+Added Pin To Net: NetName=D_5 Pin=U1-116
+Added Pin To Net: NetName=D_6 Pin=U1-117
+Added Pin To Net: NetName=D_7 Pin=U1-118
+Added Pin To Net: NetName=D_8 Pin=U1-119
+Added Pin To Net: NetName=D_9 Pin=U1-120
+Added Pin To Net: NetName=D_10 Pin=U1-121
+Added Pin To Net: NetName=D_11 Pin=U1-122
+Added Pin To Net: NetName=D_12 Pin=U1-124
+Added Pin To Net: NetName=D_13 Pin=U1-125
+Added Pin To Net: NetName=D_14 Pin=U1-128
+Added Pin To Net: NetName=D_15 Pin=U1-129
+Added Pin To Net: NetName=R\S\ Pin=U1-130
+Added Pin To Net: NetName=RSTSEL Pin=U1-134
+Added Pin To Net: NetName=LDAC Pin=U1-135
+Added Pin To Net: NetName=A1 Pin=U1-136
+Added Pin To Net: NetName=A0 Pin=U1-137
+Added Pin To Net: NetName=W\R\ Pin=U1-138
+Added Room: Name=FTDI Interface
+Added Room: Name=iCE Banks
+Added Room: Name=iCE Programming & Power
+Added Room: Name=Miscellaneous
+Added Room: Name=USB & Power
