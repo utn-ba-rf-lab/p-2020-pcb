@@ -3,3 +3,20 @@
 [0906/163027:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto) (0x2740)
 [0906/163027:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
 [0711/211201:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/123927:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/124120:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/124125:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/124130:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/124135:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/124140:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/124145:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/124150:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/124155:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/124200:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/124205:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/124210:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/124215:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/124220:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/124225:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/124230:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0825/124230:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.

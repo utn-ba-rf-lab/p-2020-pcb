@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NetC8_2 Pin=IC4-1
+Removed Pin From Net: NetName=NetC8_1 Pin=IC4-2
+Removed Pin From Net: NetName=AGND Pin=IC4-3
+Removed Pin From Net: NetName=-5V Pin=IC4-4
+Removed Pin From Net: NetName=+5V Pin=IC4-8
+Removed Member From Class: ClassName=iCE Banks Member=C15
+Removed Member From Class: ClassName=Miscellaneous Member=C15
+Removed Member From Class: ClassName=USB & Power Member=C15
+Removed Member From Class: ClassName=iCE Banks Member=C16
+Removed Member From Class: ClassName=iCE Banks Member=C17
+Removed Member From Class: ClassName=iCE Banks Member=C18
+Removed Member From Class: ClassName=iCE Programming & Power Member=C28
+Removed Member From Class: ClassName=Miscellaneous Member=C47
+Removed Member From Class: ClassName=Miscellaneous Member=C51
+Removed Member From Class: ClassName=FTDI Interface Member=C53
+Removed Member From Class: ClassName=Miscellaneous Member=C53
+Removed Member From Class: ClassName=Miscellaneous Member=C54
+Removed Member From Class: ClassName=iCE Banks Member=IC7
+Removed Member From Class: ClassName=iCE Banks Member=IC8
+Removed Member From Class: ClassName=iCE Programming & Power Member=IC8
+Change Component Comment : Designator=IC5 Old Comment=OPAMP2277 - OPA2277UA/2K5 New Comment=OPAMP2277  - OPA2277UA/2K5
+Change Component Designator: OldDesignator=IC5 NewDesignator=IC4
+Added Pin To Net: NetName=NetC8_2 Pin=IC4-1
+Added Pin To Net: NetName=NetC8_1 Pin=IC4-2
+Added Pin To Net: NetName=AGND Pin=IC4-3
+Added Pin To Net: NetName=-5V Pin=IC4-4
+Added Pin To Net: NetName=+5V Pin=IC4-8
+Change Net Name : Old Net Name=NetIC5_6 New Net Name=NetIC4_6
+Change Net Name : Old Net Name=NetIC5_7 New Net Name=NetIC4_7
+Added Member To Class: ClassName=iCE Banks Member=Component C2 10uF 6V3 - TAJA106K006RNJ
+Added Member To Class: ClassName=iCE Banks Member=Component C7 10uF 6V3 - TAJA106K006RNJ
+Added Member To Class: ClassName=iCE Banks Member=Component C9 10uF 6V3 - TAJA106K006RNJ
+Added Member To Class: ClassName=iCE Banks Member=Component C10 10uF 6V3 - TAJA106K006RNJ
+Added Member To Class: ClassName=iCE Programming & Power Member=Component C24 10uF 6V3 - TAJA106K006RNJ
+Added Member To Class: ClassName=FTDI Interface Member=Component C38 100nF 16V X7R - CL10B104KO8NNNC
+Added Member To Class: ClassName=Miscellaneous Member=Component C39 10uF 6V3 - TAJA106K006RNJ
+Added Member To Class: ClassName=Miscellaneous Member=Component C40 100nF 16V X7R - CL10B104KO8NNNC
+Added Member To Class: ClassName=Miscellaneous Member=Component C41 2.2uF 6V3 X5R - CL10A225KQ8NNNC
+Added Member To Class: ClassName=Miscellaneous Member=Component C42 2.2uF 6V3 X5R - CL10A225KQ8NNNC
+Added Member To Class: ClassName=Miscellaneous Member=Component C43 2.2uF 6V3 X5R - CL10A225KQ8NNNC
+Added Member To Class: ClassName=USB & Power Member=Component C50 1uF 10V X7R - CL10B105KP8NNNC
+Added Member To Class: ClassName=iCE Banks Member=Component IC4 OPAMP2277  - OPA2277UA/2K5
+Added Member To Class: ClassName=iCE Programming & Power Member=Component IC6 LE25U20AMB
