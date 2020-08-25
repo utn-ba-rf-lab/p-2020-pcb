@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=D_12 Pin=U1-124
+Removed Pin From Net: NetName=D_13 Pin=U1-125
+Removed Pin From Net: NetName=D_14 Pin=U1-128
+Removed Pin From Net: NetName=D_15 Pin=U1-129
+Removed Pin From Net: NetName=R\S\ Pin=U1-130
+Removed Pin From Net: NetName=RSTSEL Pin=U1-134
+Removed Pin From Net: NetName=LDAC Pin=U1-135
+Removed Pin From Net: NetName=A1 Pin=U1-136
+Removed Pin From Net: NetName=A0 Pin=U1-137
+Removed Pin From Net: NetName=W\R\ Pin=U1-138
+Added Pin To Net: NetName=D_12 Pin=U1-134
+Added Pin To Net: NetName=D_13 Pin=U1-135
+Added Pin To Net: NetName=D_14 Pin=U1-136
+Added Pin To Net: NetName=D_15 Pin=U1-137
+Added Pin To Net: NetName=R\S\ Pin=U1-138
+Added Pin To Net: NetName=RSTSEL Pin=U1-139
+Added Pin To Net: NetName=LDAC Pin=U1-141
+Added Pin To Net: NetName=A1 Pin=U1-142
+Added Pin To Net: NetName=A0 Pin=U1-143
+Added Pin To Net: NetName=W\R\ Pin=U1-144
+Added Member To Class: ClassName=iCE Banks Member=Component IC4 OPAMP2277  - OPA2277UA/2K5
+Added Room: Name=FTDI Interface
+Added Room: Name=iCE Banks
+Added Room: Name=iCE Programming & Power
+Added Room: Name=Miscellaneous
+Added Room: Name=USB & Power
