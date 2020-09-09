@@ -1,0 +1,13 @@
+Change Component Comment : Designator=U3 Old Comment=MAX1681 New Comment=MAX1681ESA+
+Added Component: Designator=IC3(opa2277)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=IC3-1
+Added Pin To Net: NetName=NetC4_2 Pin=IC3-2
+Added Pin To Net: NetName=AGND Pin=IC3-3
+Added Pin To Net: NetName=-5V Pin=IC3-4
+Added Pin To Net: NetName=AGND Pin=IC3-5
+Added Pin To Net: NetName=NetIC3_6 Pin=IC3-6
+Added Pin To Net: NetName=NetIC3_7 Pin=IC3-7
+Added Pin To Net: NetName=+5V Pin=IC3-8
+Added Member To Class: ClassName=iCE Banks Member=Component IC3 OPAMP2277 - OPA2277UA/2K5
