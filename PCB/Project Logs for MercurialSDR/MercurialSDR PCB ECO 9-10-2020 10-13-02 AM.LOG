@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=NetC41_2 Pin=U1-82
+Removed Pin From Net: NetName=NetC42_2 Pin=U1-84
+Removed Pin From Net: NetName=NetR22_2 Pin=U1-88
+Removed Pin From Net: NetName=NetR23_2 Pin=U1-90
+Removed Pin From Net: NetName=NetC43_2 Pin=U1-95
+Removed Pin From Net: NetName=D_0 Pin=U1-110
+Removed Pin From Net: NetName=D_1 Pin=U1-112
+Removed Pin From Net: NetName=D_2 Pin=U1-113
+Removed Pin From Net: NetName=D_3 Pin=U1-114
+Removed Pin From Net: NetName=D_4 Pin=U1-115
+Removed Pin From Net: NetName=D_5 Pin=U1-116
+Removed Pin From Net: NetName=D_6 Pin=U1-117
+Removed Pin From Net: NetName=D_7 Pin=U1-118
+Removed Pin From Net: NetName=D_8 Pin=U1-119
+Removed Pin From Net: NetName=D_9 Pin=U1-120
+Removed Pin From Net: NetName=D_10 Pin=U1-121
+Removed Pin From Net: NetName=D_11 Pin=U1-125
+Removed Pin From Net: NetName=D_12 Pin=U1-134
+Removed Pin From Net: NetName=D_13 Pin=U1-135
+Removed Pin From Net: NetName=D_14 Pin=U1-136
+Removed Pin From Net: NetName=D_15 Pin=U1-137
+Removed Pin From Net: NetName=R\S\ Pin=U1-138
+Removed Pin From Net: NetName=RSTSEL Pin=U1-139
+Removed Pin From Net: NetName=LDAC Pin=U1-141
+Removed Pin From Net: NetName=A1 Pin=U1-142
+Removed Pin From Net: NetName=A0 Pin=U1-143
+Removed Pin From Net: NetName=W\R\ Pin=U1-144
+Added Pin To Net: NetName=D_0 Pin=U1-81
+Added Pin To Net: NetName=D_1 Pin=U1-82
+Added Pin To Net: NetName=D_2 Pin=U1-83
+Added Pin To Net: NetName=D_3 Pin=U1-84
+Added Pin To Net: NetName=D_4 Pin=U1-85
+Added Pin To Net: NetName=D_5 Pin=U1-87
+Added Pin To Net: NetName=D_6 Pin=U1-88
+Added Pin To Net: NetName=D_7 Pin=U1-90
+Added Pin To Net: NetName=D_8 Pin=U1-91
+Added Pin To Net: NetName=D_9 Pin=U1-93
+Added Pin To Net: NetName=D_10 Pin=U1-94
+Added Pin To Net: NetName=D_11 Pin=U1-95
+Added Pin To Net: NetName=D_12 Pin=U1-96
+Added Pin To Net: NetName=D_13 Pin=U1-97
+Added Pin To Net: NetName=D_14 Pin=U1-98
+Added Pin To Net: NetName=D_15 Pin=U1-99
+Added Pin To Net: NetName=R\S\ Pin=U1-101
+Added Pin To Net: NetName=RSTSEL Pin=U1-102
+Added Pin To Net: NetName=LDAC Pin=U1-104
+Added Pin To Net: NetName=A1 Pin=U1-105
+Added Pin To Net: NetName=A0 Pin=U1-106
+Added Pin To Net: NetName=W\R\ Pin=U1-107
+Added Pin To Net: NetName=NetC41_2 Pin=U1-110
+Added Pin To Net: NetName=NetC42_2 Pin=U1-112
+Added Pin To Net: NetName=NetR22_2 Pin=U1-113
+Added Pin To Net: NetName=NetR23_2 Pin=U1-114
+Added Pin To Net: NetName=NetC43_2 Pin=U1-115
+Added Member To Class: ClassName=iCE Programming & Power Member=Component C18 100nF 16V X7R - CL10B104KO8NNNC
+Added Room: Name=FTDI Interface
+Added Room: Name=iCE Banks
+Added Room: Name=iCE Programming & Power
+Added Room: Name=Miscellaneous
+Added Room: Name=USB & Power

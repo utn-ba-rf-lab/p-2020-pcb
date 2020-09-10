@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=D_0 Pin=U1-81
+Removed Pin From Net: NetName=D_1 Pin=U1-82
+Removed Pin From Net: NetName=D_2 Pin=U1-83
+Removed Pin From Net: NetName=D_3 Pin=U1-84
+Removed Pin From Net: NetName=D_4 Pin=U1-85
+Removed Pin From Net: NetName=D_5 Pin=U1-87
+Removed Pin From Net: NetName=D_6 Pin=U1-88
+Removed Pin From Net: NetName=D_7 Pin=U1-90
+Removed Pin From Net: NetName=D_8 Pin=U1-91
+Removed Pin From Net: NetName=D_9 Pin=U1-93
+Removed Pin From Net: NetName=D_10 Pin=U1-94
+Removed Pin From Net: NetName=D_11 Pin=U1-95
+Removed Pin From Net: NetName=D_12 Pin=U1-96
+Removed Pin From Net: NetName=D_13 Pin=U1-97
+Removed Pin From Net: NetName=D_14 Pin=U1-98
+Removed Pin From Net: NetName=D_15 Pin=U1-99
+Added Pin To Net: NetName=D_0 Pin=U1-80
+Added Pin To Net: NetName=D_1 Pin=U1-81
+Added Pin To Net: NetName=D_2 Pin=U1-82
+Added Pin To Net: NetName=D_3 Pin=U1-83
+Added Pin To Net: NetName=D_4 Pin=U1-84
+Added Pin To Net: NetName=D_5 Pin=U1-85
+Added Pin To Net: NetName=D_6 Pin=U1-87
+Added Pin To Net: NetName=D_7 Pin=U1-88
+Added Pin To Net: NetName=D_8 Pin=U1-90
+Added Pin To Net: NetName=D_9 Pin=U1-91
+Added Pin To Net: NetName=D_10 Pin=U1-93
+Added Pin To Net: NetName=D_11 Pin=U1-94
+Added Pin To Net: NetName=D_12 Pin=U1-95
+Added Pin To Net: NetName=D_13 Pin=U1-96
+Added Pin To Net: NetName=D_14 Pin=U1-97
+Added Pin To Net: NetName=D_15 Pin=U1-98
+Added Room: Name=FTDI Interface
+Added Room: Name=iCE Banks
+Added Room: Name=iCE Programming & Power
+Added Room: Name=Miscellaneous
+Added Room: Name=USB & Power
