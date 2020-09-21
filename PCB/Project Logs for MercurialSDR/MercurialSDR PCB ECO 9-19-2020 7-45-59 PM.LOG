@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetIC8_55 Pin=U1-38
+Removed Pin From Net: NetName=NetIC8_54 Pin=U1-39
+Removed Pin From Net: NetName=NetIC8_53 Pin=U1-41
+Removed Pin From Net: NetName=NetIC8_52 Pin=U1-42
+Removed Pin From Net: NetName=NetIC8_48 Pin=U1-43
+Removed Pin From Net: NetName=NetIC8_46 Pin=U1-44
+Removed Pin From Net: NetName=NetIC8_45 Pin=U1-45
+Removed Pin From Net: NetName=NetIC8_44 Pin=U1-47
+Added Pin To Net: NetName=NetIC8_55 Pin=U1-37
+Added Pin To Net: NetName=NetIC8_54 Pin=U1-38
+Added Pin To Net: NetName=NetIC8_53 Pin=U1-39
+Added Pin To Net: NetName=NetIC8_52 Pin=U1-41
+Added Pin To Net: NetName=NetIC8_48 Pin=U1-42
+Added Pin To Net: NetName=NetIC8_46 Pin=U1-43
+Added Pin To Net: NetName=NetIC8_45 Pin=U1-44
+Added Pin To Net: NetName=NetIC8_44 Pin=U1-45

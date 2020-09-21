@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=DAC_DATA_IN Pin=U1-97
+Added Pin To Net: NetName=DAC_SYNC Pin=U1-98
+Added Pin To Net: NetName=DAC_SCLK Pin=U1-99
