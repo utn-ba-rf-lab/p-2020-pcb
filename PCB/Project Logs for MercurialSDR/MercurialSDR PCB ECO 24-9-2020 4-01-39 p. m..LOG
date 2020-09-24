@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=DAC_SYNC Pin=U1-98
+Removed Pin From Net: NetName=DAC_SCLK Pin=U1-99
+Added Pin To Net: NetName=DAC_SCLK Pin=U1-98
+Added Pin To Net: NetName=DAC_SYNC Pin=U1-99
+Added Room: Name=FTDI Interface
+Added Room: Name=iCE Banks
+Added Room: Name=iCE Programming & Power
+Added Room: Name=Miscellaneous
+Added Room: Name=USB & Power
