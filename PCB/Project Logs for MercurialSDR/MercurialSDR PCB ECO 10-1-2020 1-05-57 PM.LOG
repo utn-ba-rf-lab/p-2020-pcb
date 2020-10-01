@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=A0 Pin=U1-143
+Removed Pin From Net: NetName=W\R\ Pin=U1-144
+Added Pin To Net: NetName=A0 Pin=U1-142
+Added Pin To Net: NetName=W\R\ Pin=U1-143
+Added Pin To Net: NetName=NetC43_2 Pin=U1-144
+Added Member To Class: ClassName=USB & Power Member=Component TP9 Test Point
+Added Member To Class: ClassName=iCE Banks Member=Component U1 ICE40HX4K-TQ144
