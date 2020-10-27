@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\marii\Desktop\GIT-PID\p-2020v1\PCB\MercurialSDR.PcbDoc
-Date     : 10/1/2020
-Time     : 6:32:41 PM
+Date     : 10/26/2020
+Time     : 10:53:11 PM
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
 Rule Violations :0
@@ -40,27 +40,11 @@ Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Track (-4.198mm,37.625mm)(-4.198mm,45.575mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Track (-4.198mm,37.625mm)(-1.838mm,37.625mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Track (-4.198mm,45.575mm)(-1.838mm,45.575mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Track (19.13mm,18.23mm)(34.03mm,18.23mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Track (19.125mm,-5.4mm)(34.035mm,-5.4mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Track (34.035mm,-5.4mm)(34.035mm,30.287mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Track (19.125mm,-5.4mm)(19.125mm,30.287mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Track (80.115mm,-5.3mm)(80.115mm,30.387mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Track (95.025mm,-5.3mm)(95.025mm,30.387mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Track (80.115mm,-5.3mm)(95.025mm,-5.3mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Track (80.12mm,18.33mm)(95.02mm,18.33mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Track (49.55mm,18.25mm)(64.45mm,18.25mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Track (49.545mm,-5.38mm)(64.455mm,-5.38mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Track (64.455mm,-5.38mm)(64.455mm,30.307mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Track (49.545mm,-5.38mm)(49.545mm,30.307mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Text "CN2" (-3.575mm,36.25mm) on Top Overlay And Board Edge 
-Rule Violations :16
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 16
+Violations Detected : 0
 Time Elapsed        : 00:00:02
