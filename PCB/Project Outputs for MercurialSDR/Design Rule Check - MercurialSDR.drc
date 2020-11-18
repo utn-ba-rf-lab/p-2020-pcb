@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\marii\Desktop\GIT-PID\p-2020v1\PCB\MercurialSDR.PcbDoc
-Date     : 10/28/2020
-Time     : 7:58:30 PM
+PCB File : C:\Users\lucas\GITPID\p-2020v1\PCB\MercurialSDR.PcbDoc
+Date     : 18/11/2020
+Time     : 1:46:18 p. m.
 
-Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=Yes) (InNet('No Net')),(All)
@@ -47,4 +47,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:05
